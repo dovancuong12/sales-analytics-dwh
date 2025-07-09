@@ -1,5 +1,5 @@
 
-# 📊 Data Warehouse & ETL Pipeline from AdventureWorks 2012 using SSIS
+# 📊 Data Warehouse & ETL Pipeline using SSIS
 
 ![Architecture Diagram](./images/architecture.png)
 
